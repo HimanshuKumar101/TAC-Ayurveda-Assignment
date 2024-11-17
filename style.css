@@ -95,7 +95,7 @@ body {
 }
 
 .parallax {
-    background: url('images/Background1.jpeg') no-repeat center center/cover;
+    background: url('Background1.jpeg') no-repeat center center/cover;
     background-attachment: fixed;
 }
 
